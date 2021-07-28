@@ -1,0 +1,5 @@
+com.ranadheer.CustomerController=org.springframework.stereotype.Component
+com.ranadheer.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
+com.ranadheer.dao.CustomerDAOImpl=org.springframework.stereotype.Component
+com.ranadheer.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.ranadheer.service.CustomerServiceImpl=org.springframework.stereotype.Component

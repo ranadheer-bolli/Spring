@@ -1,0 +1,5 @@
+com.Ranadheer.java.BaseballCoach=org.springframework.stereotype.Component
+com.Ranadheer.java.HappyFortuneService=org.springframework.stereotype.Component
+com.Ranadheer.java.RandomFortuneService=org.springframework.stereotype.Component
+com.Ranadheer.java.SportConfig=org.springframework.stereotype.Component
+com.Ranadheer.java.TennisCoach=org.springframework.stereotype.Component

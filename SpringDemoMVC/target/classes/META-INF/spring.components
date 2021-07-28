@@ -1,0 +1,4 @@
+com.Ranadheer.CustomerController=org.springframework.stereotype.Component
+com.Ranadheer.HelloWorldController=org.springframework.stereotype.Component
+com.Ranadheer.HomeController=org.springframework.stereotype.Component
+com.Ranadheer.StudentController=org.springframework.stereotype.Component
